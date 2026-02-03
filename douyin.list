@@ -1,12 +1,12 @@
-- DOMAIN-SUFFIX,douyin.com
-- DOMAIN-SUFFIX,douyinstatic.com
-- DOMAIN-SUFFIX,iesdouyin.com
-- DOMAIN-SUFFIX,ixigua.com
-- DOMAIN-SUFFIX,bytedance.com
-- DOMAIN-SUFFIX,pstatp.com
-- DOMAIN-SUFFIX,byteimg.com
-- DOMAIN-SUFFIX,bytecdn.cn
-- DOMAIN-SUFFIX,byteoversea.com
-- DOMAIN-SUFFIX,amemv.com
-- DOMAIN-SUFFIX,snssdk.com
-- DOMAIN-SUFFIX,ixiguaimg.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,ixiguaimg.com
